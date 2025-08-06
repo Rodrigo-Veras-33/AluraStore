@@ -28,6 +28,7 @@ analise-lojas/
 │   └── relatorio_final.md
 ├── README.md                # Este arquivo
 └── requirements.txt         # Dependências do projeto
+
 🔍 Principais Métricas Analisadas
 💰 Faturamento Total
 Loja	Faturamento (R$)
@@ -47,6 +48,7 @@ Loja 1	34.69
 Loja 2	33.62
 Loja 3	33.07
 Loja 4	31.28
+
 🏆 Conclusão e Recomendação
 Com base na análise completa dos dados, recomendamos a venda da Loja 4, que apresenta:
 
@@ -71,6 +73,7 @@ Execute o notebook Jupyter:
 
 bash
 jupyter notebook notebooks/analise_lojas.ipynb
+
 📊 Visualizações
 O projeto inclui visualizações gráficas de:
 
